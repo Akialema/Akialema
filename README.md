@@ -28,7 +28,12 @@ Oh, by the way, I forgot to mention... I'm Russian, so project descriptions and 
 
 # Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white){:target="_blank"}](https://www.facebook.com/profile.php?id=100001132424287) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white){:target="_blank"}](https://www.instagram.com/jlemyp4uk/)
+<a href="https://www.facebook.com/profile.php?id=100001132424287" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+</a>
+<a href="https://www.instagram.com/jlemyp4uk" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Instagram">
+</a>
 
 # Projects:
 
