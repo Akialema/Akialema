@@ -32,5 +32,6 @@ Oh, by the way, I forgot to mention... I'm Russian, so project descriptions and 
 
 # Projects:
 
+[My educational projects](https://github.com/Akialema/PROJECTS.EDU)
 <!--^Links^-->
 [akialema-banner-image]: https://s85vla.storage.yandex.net/rdisk/61b6c66a93588af652410290259cc50acbb60a28a43770d5b7d8c2b29e7184dc/650e1468/NW7zopIQGDeffFpvN_ScjrTv5su2yb3VaJ3sMJAeDkwWOqogxBWn2C4EoVrHynQcT06A2gCuNGOzbUsGYNzwPw==?uid=0&filename=1111111111.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&fsize=655597&hid=f9292931f8ab2562cf9eba1848837665&media_type=image&tknv=v2&etag=1ac97ac94c0ac74f870cce45e886b4b0&rtoken=lCX6v2GH9RPa&force_default=no&ycrid=na-562c6429ef6f754aa21d8c496c0552e3-downloader22f&ts=605fa16dfea00&s=300dc7dfb11320f31d037d240233e405f4b72014d5c1c1174a4e2eeb3cf75549&pb=U2FsdGVkX19pQ9IvMwI1kTu9ucCNUF2h19AWYKpUpZU1raZwbO1jLrm6tOdGT9jkdJwNN_WBW0ml1HMRTDV3E0idtanWWfkKkxWICZCwDD0
