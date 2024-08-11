@@ -5,28 +5,23 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Science%20newbie;Open%20minded%20person;Good%20team%20player;Keep%20moving%20up%20↑&font=Press+Start+2P&center=true&width=580&height=45&color=FFD700&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-# About me:
+## Welcome to my page. My name is Alex.
 
-Sup guys, my name is Alex.)
+I found fun in tables, models, and metrics. And decided to develop in this direction. I will be glad to be part of a team with interesting projects.
 
-Do u remember this song with this words: '..yesterday, the girl declared: either her or the game, but there's no doubt here, I choose the internet..'?  
-Its all about me. xD
+### Languages and Tools
 
-And if you're serious... I'm 37 years old, a beginner data scientist. After a long period of wandering and self-discovery I spat and decided to do what I do best: stare at a computer and hammer on the keys.))  
-Why data science? I love automating, optimizing, improving. It seems like this profession is all about that. I don't have much to be proud of yet, but I have plenty of discipline and determination, so why not – what are my years for?))
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" />
+<img align="left" alt="Anaconda" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg"/>
+<img align="left" alt="VsCode" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif"/>
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />  
 
-I'm also skilled in photography, videography, playing the guitar, psychology, fitness and I travel a lot. And years of videogames.)) Can make flip to the pool. xD
+<br>
 
-Such a dating site turned out for me here ...))
-Well, in short.
-The readme will be updated several times, so for now I will leave this 'about me'.) It is necessary to lay out the project and not lose face with the design of the github.))
-
-Right now I use only one language: Python. In the macro perspective, I will study Java and Javascript, it is also possible C/+/-/%20. xD  
-And of course html + css, where without it?))
-
-Oh, by the way, I forgot to mention... I'm Russian, so project descriptions and code comments will be in Russian for now. However, I plan to transition to English over time.
-
-# Socials:
+## Socials:
 
 <div id="badges" align="left">
   <a href="https://www.facebook.com/profile.php?id=100001132424287">
@@ -37,8 +32,5 @@ Oh, by the way, I forgot to mention... I'm Russian, so project descriptions and 
   </a>
 </div>
 
-# Projects:
-
-[My educational projects](https://github.com/Akialema/PROJECTS.EDU)
 <!--^Links^-->
 [akialema-banner-image]: bannerimage.jpg
