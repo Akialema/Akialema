@@ -11,7 +11,7 @@ I found fun in tables, models, and metrics. And decided to develop in this direc
 
 ### Languages and Tools
 
-<img align="left" alt="Python" width="30px" style="padding-right:20px;" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"/>
+<img align="center" alt="Python" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"/>
 <img align="left" alt="Anaconda" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg"/>
 <img align="left" alt="VsCode" width="30px" style="padding-right:10px;padding-left:0px;" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif"/>
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
