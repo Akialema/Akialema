@@ -1,11 +1,11 @@
 ![My banner][akialema-banner-image]
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Science%20newbie;Open%20minded%20person;Good%20team%20player;Keep%20moving%20up%20↑&font=Comfortaa&center=true&width=580&height=45&color=FFD700&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<!--Fonts that i liked: Comfortaa, BioRhyme, Architects%20Daughter -->
+<!--Fonts that i liked: Comfortaa, BioRhyme, Architects%20Daughter  https://git.io/typing-svg -->
 
 ## Welcome to my page. My name is Alex.
 
