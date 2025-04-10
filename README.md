@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+newbie;Open+minded+person;Good+team+player;Keep+moving+up+%E2%86%91&font=Architects+Daughter&center=true&width=580&height=45&color=FFD700&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+newbie;Open+minded+person;Good+team+player;Keep+moving+up+%E2%86%91&font=Architects%20Daughter&center=true&width=580&height=45&color=FFD700&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
