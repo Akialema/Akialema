@@ -1,4 +1,9 @@
-![My banner][akialema-banner-image]
+<p align="center">
+  <a href="https://github.com/Akialema">
+    <img src="https://raw.githubusercontent.com/Akialema/Akialema/refs/heads/main/bannerimage.jpg" alt="Akialema" /></a>
+</p>
+
+<!--![My banner][akialema-banner-image] -->
 
 <p align="center">
   <a href="https://git.io/typing-svg">
